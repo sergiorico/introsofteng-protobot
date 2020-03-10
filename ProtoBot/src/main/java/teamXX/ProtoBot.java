@@ -32,6 +32,7 @@ import robocode.ScannedRobotEvent;
 
 /**
  * @author Markus Borg
+ * Test
  * 
  * Barebone robot prepared for the ETSA03 project.
  */
